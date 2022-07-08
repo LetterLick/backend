@@ -1,0 +1,11 @@
+c:\Users\Thomas\Desktop\Rust-Lang\backend\desktop_backend\target\rls\debug\deps\parse_zoneinfo-0071b5e1f4d41bb0.rmeta: C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\lib.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\line.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\structure.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\table.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\transitions.rs
+
+c:\Users\Thomas\Desktop\Rust-Lang\backend\desktop_backend\target\rls\debug\deps\libparse_zoneinfo-0071b5e1f4d41bb0.rlib: C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\lib.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\line.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\structure.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\table.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\transitions.rs
+
+c:\Users\Thomas\Desktop\Rust-Lang\backend\desktop_backend\target\rls\debug\deps\parse_zoneinfo-0071b5e1f4d41bb0.d: C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\lib.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\line.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\structure.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\table.rs C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\transitions.rs
+
+C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\lib.rs:
+C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\line.rs:
+C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\structure.rs:
+C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\table.rs:
+C:\Users\Thomas\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\transitions.rs:

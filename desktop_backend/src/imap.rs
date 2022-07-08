@@ -39,7 +39,3 @@ pub fn fetch_inbox_top() -> imap::error::Result<Option<String>> {
 
     Ok(Some(body))
 }
-
-fn main() {
-    let _email = fetch_inbox_top().unwrap();
-}
