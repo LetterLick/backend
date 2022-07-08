@@ -6,3 +6,25 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+# Web framework
+rocket = { version = "0.5.0-rc.2", features = ["tls", "json"], default-features = false }
+
+# A generic serialization/deserialization framework
+serde = { version = "1.0.138", features = ["derive"] }
+serde_json = "1.0.82"
+
+# Crypto-related libraries
+rand = { version = "0.8.5", features = ["small_rng"] }
+ring = "0.16.20"
+
+# UUID generation
+uuid = { version = "1.1.2", features = ["v4"] }
+
+# Date and time libraries
+chrono = { version = "0.4.19", features = ["clock", "serde"], default-features = false }
+chrono-tz = "0.6.1"
+time = "0.3.11"
+
+#IMAP Client
+imap = "2.4.1"

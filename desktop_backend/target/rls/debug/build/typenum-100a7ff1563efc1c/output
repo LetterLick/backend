@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\Thomas\Desktop\Rust-Lang\backend\desktop_backend\target\rls\debug\build\typenum-100a7ff1563efc1c\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\Thomas\Desktop\Rust-Lang\backend\desktop_backend\target\rls\debug\build\typenum-100a7ff1563efc1c\out\op.rs
