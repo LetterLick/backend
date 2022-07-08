@@ -28,3 +28,4 @@ time = "0.3.11"
 
 #IMAP Client
 imap = "2.4.1"
+native-tls = "0.2.10"
