@@ -1,0 +1,11 @@
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\uncased-1c4b1856f6ebf2c5.rmeta: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\libuncased-1c4b1856f6ebf2c5.rlib: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\uncased-1c4b1856f6ebf2c5.d: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs:

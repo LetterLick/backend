@@ -1,0 +1,11 @@
+c:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\rls\debug\deps\generic_array-15e005804be76612.rmeta: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\hex.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\impls.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\arr.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\functional.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\iter.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\sequence.rs
+
+c:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\rls\debug\deps\generic_array-15e005804be76612.d: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\hex.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\impls.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\arr.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\functional.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\iter.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\sequence.rs
+
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\lib.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\hex.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\impls.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\arr.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\functional.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\iter.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\sequence.rs:

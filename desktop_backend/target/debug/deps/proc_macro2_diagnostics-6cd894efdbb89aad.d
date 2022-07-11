@@ -1,0 +1,10 @@
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\proc_macro2_diagnostics-6cd894efdbb89aad.rmeta: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\libproc_macro2_diagnostics-6cd894efdbb89aad.rlib: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\proc_macro2_diagnostics-6cd894efdbb89aad.d: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs:

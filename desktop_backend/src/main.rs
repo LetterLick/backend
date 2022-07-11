@@ -12,16 +12,23 @@ use crate::database::*;
 
 #[macro_use] extern crate rocket;
 
-#[get("/hello/<name>/<password>")]
-fn hello(name: &str, password: &str) -> String {
+#[get("/home")]
+fn home() -> String {
+    format!("Welcome to the main Page!")
+}
+
+#[get("/getmail")]
+fn getmail() -> String {
     let value = fetch_inbox_top().unwrap();
-    print!("{:?}", value);
-    format!("Hello, {} year old named {}!", password, name)
+    format!("{:?}", value)
 }
 
 #[launch]
 fn rocket() -> _ {
-    rocket::build().mount("/", routes![hello])
+    rocket::build().mount("/", routes![
+        home,
+        getmail
+    ])
 }
 
 

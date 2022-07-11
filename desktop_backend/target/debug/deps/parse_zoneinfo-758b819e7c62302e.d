@@ -1,0 +1,11 @@
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\parse_zoneinfo-758b819e7c62302e.rmeta: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\line.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\structure.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\table.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\transitions.rs
+
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\libparse_zoneinfo-758b819e7c62302e.rlib: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\line.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\structure.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\table.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\transitions.rs
+
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\parse_zoneinfo-758b819e7c62302e.d: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\line.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\structure.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\table.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\transitions.rs
+
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\lib.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\line.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\structure.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\table.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\parse-zoneinfo-0.3.0\src\transitions.rs:

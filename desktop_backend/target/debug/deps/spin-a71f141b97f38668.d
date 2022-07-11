@@ -1,0 +1,10 @@
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\spin-a71f141b97f38668.rmeta: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\mutex.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\rw_lock.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\once.rs
+
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\libspin-a71f141b97f38668.rlib: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\mutex.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\rw_lock.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\once.rs
+
+C:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\debug\deps\spin-a71f141b97f38668.d: C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\lib.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\mutex.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\rw_lock.rs C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\once.rs
+
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\lib.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\mutex.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\rw_lock.rs:
+C:\Users\e8Perri\.cargo\registry\src\github.com-1ecc6299db9ec823\spin-0.5.2\src\once.rs:

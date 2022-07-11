@@ -1,0 +1,13 @@
+prefix=c:\Users\e8Perri\Documents\Letterlick\backend\desktop_backend\target\rls\debug\build\libz-sys-7f42db1132e0c7f8\out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
